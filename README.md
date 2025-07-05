@@ -34,7 +34,7 @@ This system empowers users to verify the authenticity of video content in real-t
 
 
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 🐍 Python
 
 🏗️ Django
