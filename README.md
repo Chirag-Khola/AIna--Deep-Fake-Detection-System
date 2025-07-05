@@ -57,23 +57,11 @@ Edit
 pip install -r requirements.txt
 Run server:
 
-bash
-Copy
-Edit
-python manage.py runserver
-📂 Project Structure
-bash
-Copy
-Edit
-AIna/
-├── core/               # Deepfake detection models
-├── webapp/             # Django web app
-├── docker/             # Docker configurations
-├── requirements.txt    # Python dependencies
-└── ...
+
 👨‍💻 Contributors
 Chirag Khola 💻
 Tushar Harsan 
+ ( Team Project )
 
 Chirag Khola 🌟
 
