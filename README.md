@@ -58,10 +58,11 @@ pip install -r requirements.txt
 Run server:
 
 
-👨‍💻 Contributors
-Chirag Khola 💻
-Tushar Harsan 
- ( Team Project )
+## 👨‍💻 Contributors
+
+- Chirag Khola 💻  
+- Tushar Harsan 🌟  
+- (Team Project) 🎯
 
 Chirag Khola 🌟
 
