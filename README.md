@@ -24,6 +24,9 @@ This system empowers users to verify the authenticity of video content in real-t
 
 🌐 Web-based interface using Django.
 
+![image](https://github.com/user-attachments/assets/c985a241-0d5b-4954-8b03-bb48fa40f7f9)
+
+
 
 
 🛠️ Tech Stack
