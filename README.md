@@ -24,8 +24,7 @@ This system empowers users to verify the authenticity of video content in real-t
 
 🌐 Web-based interface using Django.
 
-📸 Demo
-<!-- Add a GIF or screenshot here -->
+
 
 🛠️ Tech Stack
 🐍 Python
@@ -39,14 +38,7 @@ This system empowers users to verify the authenticity of video content in real-t
 🔗 Transfer Learning
 
 🚀 Getting Started
-🐳 Quick Docker Setup
-bash
-Copy
-Edit
-git clone https://github.com/Chirag-Khola/AIna--Deep-Fake-Detection-System.git
-cd AIna--Deep-Fake-Detection-System
-docker-compose up --build
-📦 Manual Setup
+
 Clone repo & create virtual env
 
 Install requirements:
@@ -73,11 +65,10 @@ AIna/
 └── ...
 👨‍💻 Contributors
 Chirag Khola 💻
+Tushar Harsan 
 
-[Your Name] 🌟
+Chirag Khola 🌟
 
-📜 License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 🌟 Show your support!
 If you found this project useful, give it a ⭐ and share it!
