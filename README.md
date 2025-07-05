@@ -26,6 +26,11 @@ This system empowers users to verify the authenticity of video content in real-t
 
 ![image](https://github.com/user-attachments/assets/c985a241-0d5b-4954-8b03-bb48fa40f7f9)
 
+![image](https://github.com/user-attachments/assets/06db597c-48b2-4bdd-a617-988a592b41bd)
+
+![image](https://github.com/user-attachments/assets/e3a48d7c-5ea1-49c3-9b22-430e9b2b1ede)
+
+
 
 
 
